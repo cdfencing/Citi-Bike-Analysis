@@ -5,3 +5,21 @@ From the reports it can be noted that the top age groups utilizing Citi Bikes ar
 the majority of the users in each of these age demographics are subscribers. Additionally, digging deeper into the monthly usage 
 by both of these age groups, it can be observed that they have high usage rates that remain consistent over all twelve months, 
 with the highest usage during the period of June through October. 
+
+There are several reasons for which this age demographic has higher usage rates of Citi Bikes than others. This particular age group 
+tends to be independ of their parents by this age range, however, they may not have the monetary funds necessary to secure other 
+transport such as a car. Citi Bikes would be the economical alternative for this demographic. Furthermore, this age range tends to be in
+better shape than older age demographics which would make riding easier for them. Finally, younger age demographics are concious of their
+footprints on the environment. This higher usage rate by 25-34 years could be impart due to the age demographics' hightened awareness of 
+environmental issues.
+
+The second observable phenomena noted from the Citi Bike data pertains to gender demographics of the bike utilization. From the data 
+it can be seen that both male and females have higher subscribers rates than customer rates. It is also notable that male ridership is 
+significantly higher than any other gender demographic group. Furthermore, male ridership remains consistent throughout the entire year,
+with seasonality not having a particularly large impact on ride numbers month to month. Finally, it is observable that males ages 25-29 
+and 30-34 have both the highest subscription and customer utilization of Citi Bikes.
+
+There are multiple reasonings for why male ridership is higher than female ridership. One is that women's clothing includes options like
+dresses and skirts which do not lend easily to riding a bike every day. Additionally, women tend to be more concerned about safety than men.
+The lack of bike lanes in a city or the fear of riding next to cars could be a reason for the lower female ridership as New York has a high 
+amount of traffic.
