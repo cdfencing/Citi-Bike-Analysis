@@ -1,0 +1,7 @@
+Citi Bike Analysis:
+
+From the data there are two observable phenomena with Citi Bike usage. One of which is the age demographics of the bike users. 
+From the reports it can be noted that the top age groups utilizing Citi Bikes are 25-29 and 30-34 as the top two. Furthermore, 
+the majority of the users in each of these age demographics are subscribers. Additionally, digging deeper into the monthly usage 
+by both of these age groups, it can be observed that they have high usage rates that remain consistent over all twelve months, 
+with the highest usage during the period of June through October. 
